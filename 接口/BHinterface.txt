@@ -1,0 +1,10 @@
+F:\BlockHigh\BlockHigh\BH_parameter.txt
+F:\BlockHigh\BlockHigh\BH_Fixed_parameter.txt
+F:\HighWavesData\hgt\hgt_day\
+F:\BlockHigh\BlockHigh\output\
+
+注意：该路径行数及顺序绝对不可以改变，否则程序将读取路径不成功，导致程序不能正常运行。
+第一行：固定参数文件的绝对路径
+第二行：可变参数文件的绝对路径
+第三行：源数据的路径文件夹，源数据为逐日位势高度数据，每年一个文件
+第四行：结果数据存入的路径文件夹
